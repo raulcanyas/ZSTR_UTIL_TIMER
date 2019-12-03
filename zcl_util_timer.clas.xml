@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_UTIL_TIMER</CLSNAME>
+    <LANGU>S</LANGU>
+    <DESCRIPT>Util - Contador de Tiempo</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_TIMER</CLSNAME>
+     <CMPNAME>CALCULATE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Calcular tiempo transcurrido</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_TIMER</CLSNAME>
+     <CMPNAME>GET_TIME</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Tiempo en segundos</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_TIMER</CLSNAME>
+     <CMPNAME>GET_TIME_HOUR</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Tiempo en horas</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_TIMER</CLSNAME>
+     <CMPNAME>GET_TIME_MIN</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Tiempo en minutos</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_TIMER</CLSNAME>
+     <CMPNAME>GET_TIME_UZEIT</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Tiempo en formato Hora SAP</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_TIMER</CLSNAME>
+     <CMPNAME>MV_BEGIN</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Tiempo inicio (AAAAMMDDhhmmssmmmuuun)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_TIMER</CLSNAME>
+     <CMPNAME>MV_END</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Tiempo final (AAAAMMDDhhmmssmmmuuun)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_TIMER</CLSNAME>
+     <CMPNAME>MV_TIME</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>CronomTiempo en Segundos (JJJJMMTThhmmss,mmmuuun)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_TIMER</CLSNAME>
+     <CMPNAME>START</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Tomar valor de inicio</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_TIMER</CLSNAME>
+     <CMPNAME>STOP</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Tomar valor de fin</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
